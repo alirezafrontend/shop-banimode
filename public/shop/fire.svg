@@ -1,0 +1,16 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Fire 1" clip-path="url(#clip0_12401_18220)">
+<g id="Group">
+<path id="Vector" d="M10.334 12.6026L16.1362 5.83337L22.3917 13.1314L26.4393 8.40912L29.6658 12.1734C31.739 14.5922 32.8787 17.6729 32.8787 20.8586V21.2879C32.8787 22.9791 32.5456 24.6538 31.8983 26.2164C31.2511 27.7789 30.3025 29.1987 29.1066 30.3946C27.9107 31.5905 26.4909 32.5391 24.9284 33.1864C23.3659 33.8336 21.6911 34.1667 19.9999 34.1667C16.5842 34.1667 13.3084 32.8098 10.8932 30.3946C8.47796 27.9794 7.12109 24.7036 7.12109 21.2879C7.12109 18.1021 8.26072 15.0215 10.334 12.6026Z" fill="url(#paint0_linear_12401_18220)" fill-opacity="0.4" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_12401_18220" x1="19.9999" y1="5.83337" x2="19.9999" y2="34.1667" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<clipPath id="clip0_12401_18220">
+<rect width="40" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>
