@@ -30,7 +30,7 @@ const page = async ({ params }) => {
               <div className="text-[15px] font-semibold">{data.title}</div>
               <div className="my-[10px]">
                 <span className="text-[14px] md:text-[16px] px-[7px] py-[4px] border-[2px] border-[#19B16A] rounded-[3px] text-[#19B16A] font-semibold">
-                  +تخفیف بیشتر در گردونه آف زمستون
+                  +تخفیف بیشتر در گردونه آف بهاره
                 </span>
               </div>
               <div className="flex flex-col gap-[25px]">
