@@ -73,7 +73,7 @@ const CarouselProduct = ({ products, src }) => {
             <div className="flex justify-between w-full">
               <Link
                 className="flex w-[60%]"
-                href={`/product/${item.id}`}
+                href={`/${src}/${item.id}`}
                 aria-label={`مشاهده محصول ${item.title || "محصول"}`}
               >
                 <div className="brand text-[13px] text-[#666666] line-clamp-1">
