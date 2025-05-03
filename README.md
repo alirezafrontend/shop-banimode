@@ -6,7 +6,7 @@ A modern and fully functional e-commerce website built with Next.js 15, Tailwind
 
 ## 🚀 Features  
 ✔️ Fully responsive design optimized for mobile, tablet, and desktop.
-✔️ Product categories to filter items based on type.
+✔️ Search functionality to quickly find products by name or description.
 ✔️ Shopping cart with dynamic item management.
 ✔️ Real-time data syncing for live product updates using Supabase.
 ✔️ Easy to extend and customize for future features or improvements.
