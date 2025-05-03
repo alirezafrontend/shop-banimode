@@ -1,4 +1,4 @@
-# 🛍️ Bani Mode Clothing Store
+# 🛍️ Bani Mode Store
 
 A modern and fully functional e-commerce website built with Next.js 15, Tailwind CSS, Zustand, and Supabase. This online clothing store features product categories, a shopping cart, and a seamless shopping experience for users.
 
