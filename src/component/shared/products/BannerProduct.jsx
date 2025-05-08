@@ -33,9 +33,9 @@ const BannerProduct = ({ bannerProducts }) => {
       {bannerProducts.map((item) => (
         <SwiperSlide className="w-full h-[240px]" key={item.id}>
           <div className="relative flex flex-col justify-center items-center gap-[15px] img-amazing-slider rounded-2xl h-[240px] bg-[rgb(245 245 247)]">
-            <div className="flex justify-center items-center w-full h-[85%] p-1 cursor-pointer bg-[#fff] border-[1px] border-[#f5f5f7] rounded-full overflow-hidden">
+            <div className="flex justify-center items-center w-full h-[85%] p-1 cursor-pointer bg-[#fff] border-[2px] border-[#f5f5f7] rounded-[5px] overflow-hidden">
               <Image
-                className="w-[90%] h-auto object-cover rounded-[5px]"
+                className="w-[90%] h-auto object-cover"
                 src={item.src || "/fallback-image.jpg"}
                 alt={item.title || "image"}
                 width={100}
