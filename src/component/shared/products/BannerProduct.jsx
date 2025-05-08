@@ -35,7 +35,7 @@ const BannerProduct = ({ bannerProducts }) => {
           <div className="relative flex flex-col justify-center items-center gap-[15px] img-amazing-slider rounded-2xl h-[320px] bg-[rgb(245 245 247)]">
             <div className="w-full h-[85%] bg-[#f5f5f7] p-1 rounded-[5px] cursor-pointer">
               <Image
-                className="w-full h-full object-cover rounded-[5px]"
+                className="w-[80%] h-[80%] object-cover rounded-[5px]"
                 src={item.src || "/fallback-image.jpg"}
                 alt={item.title || "image"}
                 width={100}
