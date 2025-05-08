@@ -31,11 +31,11 @@ const BannerProduct = ({ bannerProducts }) => {
       }}
     >
       {bannerProducts.map((item) => (
-        <SwiperSlide className="w-full h-[320px]" key={item.id}>
-          <div className="relative flex flex-col justify-center items-center gap-[15px] img-amazing-slider rounded-2xl h-[320px] bg-[rgb(245 245 247)]">
-            <div className="w-full h-[85%] bg-[#f5f5f7] p-1 rounded-[5px] cursor-pointer">
+        <SwiperSlide className="w-full h-[260px]" key={item.id}>
+          <div className="relative flex flex-col justify-center items-center gap-[15px] img-amazing-slider rounded-2xl h-[260px]">
+            <div className="w-full h-[85%] p-1 rounded-[5px] cursor-pointer">
               <Image
-                className="w-[80%] h-auto object-cover rounded-[5px]"
+                className="w-[90%] h-auto object-cover rounded-[5px]"
                 src={item.src || "/fallback-image.jpg"}
                 alt={item.title || "image"}
                 width={100}
