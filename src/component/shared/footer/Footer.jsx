@@ -129,7 +129,7 @@ const Footer = () => {
             <div className="col-span-12 md:col-span-6 lg:col-span-4 mb-[50px] lg:mb-0">
               <div className="flex flex-col justify-end">
                 <h4 className="text-gray-500 text-[16px] mb-[5px]">
-                  منتظر شنیدن صدای گرمتیم
+                  .منتظر شنیدن صدای گرمتیم
                 </h4>
                 <p className="text-gray-500 text-[14px] mb-[40px]">
                   7 روز هفته - 24 ساعته
