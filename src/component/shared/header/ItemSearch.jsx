@@ -17,7 +17,7 @@ const ItemSearch = ({ item, onSelect }) => {
               src={item.images[0]}
               width={50}
               height={50}
-              alt={item.title}
+              alt=""
             />
           </div>
           <span className="w-[80%] text-sm text-gray-800">{item.title}</span>
