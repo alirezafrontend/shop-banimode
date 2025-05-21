@@ -19,7 +19,7 @@ const ItemProduct = ({
           <Image
             className="w-full object-cover rounded-[8px] transition-opacity duration-300 ease-in-out"
             src={src1}
-            alt={}
+            alt={title}
             width={250}
             height={250}
             loading="lazy"
@@ -27,7 +27,7 @@ const ItemProduct = ({
           <Image
             className="absolute top-0 left-0 w-full h-full object-cover rounded-2xl transition-opacity duration-300 ease-in-out opacity-0 hover:opacity-100"
             src={src2}
-            alt={}
+            alt={title}
             width={250}
             height={250}
             loading="lazy"
