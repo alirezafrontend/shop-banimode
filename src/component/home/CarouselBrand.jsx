@@ -43,6 +43,7 @@ const CarouselBrand = ({ products }) => {
               placeholder="blur"
               blurDataURL="/placeholder-image.jpg"
               loading="lazy"
+              unoptimized
             />
           </div>
         </SwiperSlide>
