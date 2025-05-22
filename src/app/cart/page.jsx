@@ -63,6 +63,7 @@ const Cart = () => {
                     width={50}
                     height={50}
                     alt="سبد خرید خالی"
+                    unoptimized
                   />
                 </div>
                 <div className="w-full flex justify-center">
@@ -97,6 +98,7 @@ const Cart = () => {
                         width={20}
                         height={20}
                         alt="shop"
+                        unoptimized
                       />
                       <p className="text-[16px] !mb-0 text-[#a1a5a9] font-bold">
                         فروشنده:
