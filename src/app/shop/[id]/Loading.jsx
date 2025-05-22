@@ -15,6 +15,7 @@ const Loading = () => {
           width={200}
           height={200}
           className="animate-pulse"
+          unoptimized
         />
         <span className="flex gap-2">
           <div
