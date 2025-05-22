@@ -13,6 +13,7 @@ const BannerCenter = () => {
           width={1600}
           height={400}
           alt="banner-center"
+          unoptimized
         />
       </Link>
     </div>
