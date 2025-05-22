@@ -48,6 +48,7 @@ const CartItem = ({
               width={100}
               height={100}
               alt="product"
+              unoptimized
             />
           </Link>
           <button
