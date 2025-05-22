@@ -32,6 +32,7 @@ const Slider = ({ images }) => {
             height={600}
             priority={index === 0}
             className="rounded-[20px]"
+            unoptimized
           />
         </SwiperSlide>
       ))}
