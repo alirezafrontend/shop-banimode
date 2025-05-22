@@ -44,6 +44,7 @@ const BannerProduct = ({ bannerProducts }) => {
                 placeholder="blur"
                 blurDataURL="/placeholder-image.jpg"
                 loading="lazy"
+                unoptimized
               />
             </div>
             <span className="text-[14px] h-[15%]">{item.title}</span>
