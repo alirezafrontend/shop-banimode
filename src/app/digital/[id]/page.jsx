@@ -245,6 +245,7 @@ const page = async ({ params }) => {
                         width={20}
                         height={20}
                         alt="toman"
+                        unoptimized
                       />
                     </span>
                   </div>
@@ -271,6 +272,7 @@ const page = async ({ params }) => {
                   width={40}
                   height={40}
                   alt="service1"
+                  unoptimized
                 />
               </span>
               <span className="text-[14px]">ضمانت بازگشت کالا</span>
@@ -282,6 +284,7 @@ const page = async ({ params }) => {
                   width={40}
                   height={40}
                   alt="service1"
+                  unoptimized
                 />
               </span>
               <span className="text-[14px]">ضمانت اصالت کالا</span>
@@ -293,6 +296,7 @@ const page = async ({ params }) => {
                   width={40}
                   height={40}
                   alt="support1"
+                  unoptimized
                 />
               </span>
               <span className="text-[14px]">خدمات پس از خرید</span>
@@ -304,6 +308,7 @@ const page = async ({ params }) => {
                   width={40}
                   height={40}
                   alt="Space1"
+                  unoptimized
                 />
               </span>
               <span className="text-[14px]">تحویل سریع و آسان</span>
