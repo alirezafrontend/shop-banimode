@@ -23,6 +23,7 @@ const ItemProduct = ({
             width={250}
             height={250}
             loading="lazy"
+            unoptimized
           />
           <Image
             className="absolute top-0 left-0 w-full h-full object-cover rounded-2xl transition-opacity duration-300 ease-in-out opacity-0 hover:opacity-100"
@@ -31,6 +32,7 @@ const ItemProduct = ({
             width={250}
             height={250}
             loading="lazy"
+            unoptimized
           />
           {discount > 0 && (
             <span className="flex justify-center items-center absolute top-2 left-4 text-[#fff] bg-[#f16422] w-[40px] h-[40px] rounded-full">
@@ -66,6 +68,7 @@ const ItemProduct = ({
                 width={20}
                 height={20}
                 alt="toman"
+                unoptimized
               />
             </span>
           </div>
