@@ -13,6 +13,7 @@ export default function NotFound() {
           width={200}
           height={200}
           alt="404"
+          unoptimized
         />
       </div>
       <div className="flex justify-center text-[20px] md:text-[26px] font-semibold my-[40px]">
