@@ -30,6 +30,7 @@ const Newsletter = () => {
               width={15}
               height={15}
               alt="newsletter"
+              unoptimized
             />
           </span>
         </Button>
