@@ -48,6 +48,7 @@ const CarouselProduct = ({ products, src }) => {
                 placeholder="blur"
                 blurDataURL="/placeholder-image.jpg"
                 loading="lazy"
+                unoptimized
               />
               {item.discount && (
                 <span className="flex justify-center items-center absolute top-2 left-4 text-[#fff] bg-[#f16422] w-[40px] h-[40px] rounded-full">
