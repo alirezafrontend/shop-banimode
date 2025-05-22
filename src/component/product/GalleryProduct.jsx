@@ -37,6 +37,7 @@ const GalleryProduct = ({ images }) => {
                 placeholder="blur"
                 blurDataURL="/placeholder-image.jpg"
                 loading="lazy"
+                unoptimized
               />
             </div>
           </SwiperSlide>
