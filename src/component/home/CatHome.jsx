@@ -38,6 +38,7 @@ const CatHome = () => {
               width={300}
               height={300}
               className="object-cover w-full h-full rounded-lg"
+              unoptimized
             />
           </Link>
         </div>
