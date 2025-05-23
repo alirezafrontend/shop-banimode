@@ -18,6 +18,7 @@ const ItemSearch = ({ item, onSelect }) => {
               width={50}
               height={50}
               alt=""
+              unoptimized
             />
           </div>
           <span className="w-[80%] text-sm text-gray-800">{item.title}</span>
