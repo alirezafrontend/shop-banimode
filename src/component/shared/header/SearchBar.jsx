@@ -75,6 +75,7 @@ const SearchBar = () => {
           height={22}
           src="/header/icons8-search.svg"
           alt="search"
+         unoptimized
         />
       </span>
 
