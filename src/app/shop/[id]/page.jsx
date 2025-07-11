@@ -221,7 +221,7 @@ const page = async ({ params }) => {
                     <div className="flex items-center justify-end gap-[5px]">
                       <div className="text-[#6d6d6d]">
                         <span className="text-[14px] md:text-[16px] line-through">
-                          {data.price}
+                          {(data.price).toLocaleString("fa-IR")}
                         </span>
                         <span>تومان</span>
                       </div>
