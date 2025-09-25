@@ -5,18 +5,18 @@ A modern and fully functional e-commerce website built with Next.js 15, Tailwind
 🔹 Built with: Next.js 15, Tailwind CSS, Zustand, Supabase, JavaScript, HTML, CSS 
 
 ## 🚀 Features  
-✔️ Fully responsive design optimized for mobile, tablet, and desktop.
-✔️ Search functionality to quickly find products by name or description.
-✔️ Shopping cart with dynamic item management.
-✔️ Real-time data syncing for live product updates using Supabase.
-✔️ Easy to extend and customize for future features or improvements.
+✔️ Fully responsive design optimized for mobile, tablet, and desktop.<br/>
+✔️ Search functionality to quickly find products by name or description.<br/>
+✔️ Shopping cart with dynamic item management.<br/>
+✔️ Real-time data syncing for live product updates using Supabase.<br/>
+✔️ Easy to extend and customize for future features or improvements.<br/>
 
 
 ## 🛠️ Technologies Used
-✔️ Next.js 15 – For server-side rendering, routing, and optimizing performance.
-✔️ Zustand – For state management (shopping cart, user session, etc.).
-✔️ Tailwind CSS – For utility-first, responsive design.
-✔️ Supabase – For database, authentication, and real-time data syncing.
+✔️ Next.js 15 – For server-side rendering, routing, and optimizing performance.<br/>
+✔️ Zustand – For state management (shopping cart, user session, etc.).<br/>
+✔️ Tailwind CSS – For utility-first, responsive design.<br/>
+✔️ Supabase – For database, authentication, and real-time data syncing.<br/>
 
 ## 🎥 Live Demo  
 🔗 **[Watch Demo](https://shop-banimode.vercel.app/ "Live Demo")**  
